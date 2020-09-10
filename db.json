@@ -3,39 +3,51 @@
     "footPrint": [
         {
            "categories": "Enero",
-           "data": "19" 
+           "data": "110.8" 
         },
         {
             "categories": "Febrero",
-            "data": "24" 
+            "data": "96.4" 
          },
          {
             "categories": "Marzo",
-            "data": "18" 
+            "data": "100" 
          },
          {
             "categories": "Abril",
-            "data": "15" 
+            "data": "80.1" 
          },
          {
             "categories": "Mayo",
-            "data": "17" 
+            "data": "75.7" 
          },
          {
             "categories": "Junio",
-            "data": "27" 
+            "data": "97.5" 
          },
          {
             "categories": "Julio",
-            "data": "25" 
+            "data": "90.2" 
          },
          {
             "categories": "Agosto",
-            "data": "15" 
+            "data": "78.9" 
          },
          {
             "categories": "Septiembre",
-            "data": "5" 
+            "data": "75.1" 
+         },
+         {
+            "categories": "Octubre",
+            "data": "60" 
+         },
+         {
+            "categories": "Noviembre",
+            "data": "65.6" 
+         },
+         {
+            "categories": "Diciembre",
+            "data": "48.5" 
          }
-       ]
+    ]
 }
